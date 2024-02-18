@@ -1,0 +1,26 @@
+@font-face {
+     font-family: a;
+     src: url(/asset/font/Protest_Riot/ProtestRiot-Regular.ttf);
+}
+
+* {
+    background-color: #282A35;
+}
+body {
+    max-width: 80ch;
+    margin: 0 1rem;
+    margin: auto;
+    font-family: a;
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+    color: #eceff4;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: fit-content;
+margin-top: 3cm;
+border-radius: 10%;
+}
